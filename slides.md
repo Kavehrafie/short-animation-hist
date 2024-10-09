@@ -66,13 +66,13 @@ layout: two-cols
 transition: slide-up
 ---
 
-![](./bodley.png){class="h-110"}
+![](/bodley.png){class="h-110"}
 A page of the Bodley Codex, c. 14th-15th. {class="text-xs"}
 
 ::right::
 
 
-![](./naramsin.png){class="h-110 object-contain m-auto"}
+![](/naramsin.png){class="h-110 object-contain m-auto"}
 Victory of Naram-Sin over the mountain tribe of the Lullubi and their king Satuni, 2250 BCE, limestone.{class="text-xs"}
 
 
@@ -80,7 +80,7 @@ Victory of Naram-Sin over the mountain tribe of the Lullubi and their king Satun
 layout: center
 ---
 
-![](./riley-movement.png){class="h-110 object-contain"}
+![](/riley-movement.png){class="h-110 object-contain"}
 Bridget Riley, Movement in Squares, 1961.{class="text-xs"}
 
 ---
@@ -88,11 +88,11 @@ layout: two-cols
 ---
 ## The 18th and 19th century technologies
 
-![](./choreutoscope.png){class="h-80 object-contain"}
+![](/choreutoscope.png){class="h-80 object-contain"}
 Choreutoscope, replica of an original from 1866.{class="text-xs"}
 
 ::right::
-![](./fantasmagorie.png){class="w-100 h-100 object-contain m-auto"}
+![](/fantasmagorie.png){class="w-100 h-100 object-contain m-auto"}
 Fantasmagorie, probably 1797, depicted in an engraving in Étienne Gaspard Robertson’s Mémoires Récréatifs Scientifiques et Anecdotiques, 1831.{class="text-xs m-auto"}
 
 <!-- 
@@ -118,7 +118,7 @@ layout: center
 layoutClass: gap-16
 ---
 ## Zoetrope
-![](./zoetrope.png){class="h-110"}
+![](/zoetrope.png){class="h-110"}
 
 <!--
 A zoetrope, meaning “wheel of life,” is another 
@@ -143,19 +143,19 @@ layout: two-cols
 
 <div v-click.hide>
 
-![](./jules-marey.png){class="h-60 object-contain" }
+![](/jules-marey.png){class="h-60 object-contain" }
 Étienne-Jules Marey, chronophotograph depicting a pole vault, 1887.{class="text-xs"}
 
 </div>
 
 <div v-after>
 
-![](./photographic-gun.png){class="h-60 absolute top-30 object-contain"}
+![](/photographic-gun.png){class="h-60 absolute top-30 object-contain"}
 Étienne-Jules Marey’s “photographic gun,” 1882.{class="text-xs"}
 </div>
 
 ::right::
-![](./muybridge.png){class="h-90 object-contain"}
+![](/muybridge.png){class="h-90 object-contain"}
 Eadweard Muybridge, motion study of a horse running, 1878.{class="text-xs"}
 
 
@@ -192,14 +192,14 @@ faster than 1/500th of a second
 layout: two-cols
 ---
 
-![](./duchamp-desc-painting.png){class="h-110 object-contain"}
+![](/duchamp-desc-painting.png){class="h-110 object-contain"}
 [Marcel Duchamp, "Nu descendant un escalier n° 2," 1912.]{class="text-xs"}
 
 ::right::
 
 <div v-click>
 
-![](./duchamp-desc-photo.png){class="h-110 object-contain"}
+![](/duchamp-desc-photo.png){class="h-110 object-contain"}
 Eliot Elisofon, Marcel Duchamp descends staircase, reproduced in Life magazine, April 28, 1952.{class="text-xs"}
 </div>
 
@@ -209,7 +209,7 @@ layout: iframe-right
 url: https://www.youtube.com/embed/Y6b0wpBTR1s?si=T5AVUF9sVhXftbt9
 ---
 
-![](./the-black-maria.png){class="h-110 object-contain"}
+![](/the-black-maria.png){class="h-110 object-contain"}
 Thomas Edison’s studio, the “Black Maria,” in use 1892–1901.{class="text-xs"}
 
 <!--
@@ -254,7 +254,7 @@ layout: iframe-right
 url: https://www.youtube.com/embed/AfsU50X4Fjk?si=WpjR9hcjg86UNjm7
 ---
 
-![](./rotoscope.png){class="h-110 object-contain"}
+![](/rotoscope.png){class="h-110 object-contain"}
 Diagrams from Fleischer’s patent for the rotoscope process, filed in 1915 and granted in 1917.{class="text-xs"}
 
 <!--
@@ -294,7 +294,7 @@ layout: iframe-right
 url: https://www.youtube.com/embed/92KFRJLhi_E?si=BgTN4rtuoyUxQrOE
 ---
 ## Silhouette Animation
-![](./mutiplane-rig.png){class="h-90 object-contain"}
+![](/mutiplane-rig.png){class="h-90 object-contain"}
 
 Lotte Reiniger and Carl Koch at work on a multiplane rig, creating The Adventures of Prince Achmed, c. 1925.{class="text-xs"}
 
@@ -361,12 +361,12 @@ Bored with married life, Mr. Beetle goes to a nightclub and fights off a grassho
 layout: two-cols
 ---
 
-![](./snow-white.png){class="h-110 object-contain"}
+![](/snow-white.png){class="h-110 object-contain"}
 Walt Disney Pictures, Snow White and the Seven Dwarfs, 1937.{class="text-xs"}
 
 ::right::
 
-![](./disney-cels.png){class="h-100 object-contain mx-auto"}
+![](/disney-cels.png){class="h-100 object-contain mx-auto"}
 [A Disney animator working on cels of Mickey Mouse, 1938.]{class="text-xs text-center px-10"}
 
 
@@ -374,18 +374,18 @@ Walt Disney Pictures, Snow White and the Seven Dwarfs, 1937.{class="text-xs"}
 layout: two-cols
 ---
 
-![](./popeye.png){class="h-110 object-contain"}
+![](/popeye.png){class="h-110 object-contain"}
 Dave Fleischer, Popeye the Sailor Meets Sinbad the Sailor, 1936.{class="text-xs"}
 
 ::right::
-![](./stereoptical-process.png){class="h-100 object-contain mx-auto"}
+![](/stereoptical-process.png){class="h-100 object-contain mx-auto"}
 Fleischer’s patent for the Stereoptical process, 1936.{class="text-xs p-10 block text-center"}
 
 ---
 layout: center
 ---
 
-![](./mclaren-v.png){class="h-110 object-contain"}
+![](/mclaren-v.png){class="h-110 object-contain"}
 Norman McLaren, V for Victory, 1941.{class="text-xs"}
 
 <!--
@@ -406,7 +406,7 @@ Dots - Norman McLaren (1940)
 layout: center
 ---
 
-![](./jodoin.png){class="h-110 object-contain"}
+![](/jodoin.png){class="h-110 object-contain"}
 René Jodoin, Dance Squared, 1961.{class="text-xs"}
 
 <!--
@@ -443,7 +443,7 @@ layout: center
 
 ## Contemporary art and animation
 
-![](./kentridge-exh.png){class="h-110 object-contain"}
+![](/kentridge-exh.png){class="h-110 object-contain"}
 William Kentridge, Why Should I Hesitate, 2020-1.{class="text-xs"}
 
 ---
