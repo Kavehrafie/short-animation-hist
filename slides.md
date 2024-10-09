@@ -50,11 +50,11 @@ transition: fade-out
 layout: two-cols
 ---
 
-![](./lascaux-torch.png){class="h-110"}
+![](/lascaux-torch.png){class="h-110"}
 
 ::right::
 
-![](./lascaux-image.png){class="h-80 object-contain"}
+![](/lascaux-image.png){class="h-80 object-contain"}
 Prehistoric paintings, Lascaux caves, southwest France, c. 15,000 BCE{class="text-xs"}
 
 <!--
